@@ -10,8 +10,8 @@ even though I don't quite understand what I'm doing.**🤍
 
 - 🌱 I’m currently learning html5, Css3 and Javascript.
 - 🔭 I’m currently working on Python logic exercises.
-- ✅ Backend developer with a preference for Python.
-- 💬 Next, I'm going to learn NodeJS.
+- ✅ Fullstack developer with a preference for Backend development in Python.
+- 💬 Next, I want to learn more about APIs.
 - 🎉 Fun fact: I hate programming but I'm in love with programming.
 
 
